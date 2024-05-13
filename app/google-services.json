@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448860688195",
+    "project_id": "kagee3-f3170",
+    "storage_bucket": "kagee3-f3170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448860688195:android:ae551fae9ae2d3731529f6",
+        "android_client_info": {
+          "package_name": "com.example.kagee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXSl572SLZ0yIsN3hzzB3gljFdTTVYPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
